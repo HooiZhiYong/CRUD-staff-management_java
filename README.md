@@ -5,13 +5,13 @@ i think there are a few bug inside and im poor in programming,
 if you guys are free can u guys give me some advise or example to improve my code
 thanks and regret
 
-#this is a programe about the staff management system
+##this is a programe about the staff management system
 -it has two of the row like admin and employee,
 -admin are allowed to delete employee account
 -employee and admin cant delete itself
 -employee cant delete the admin account
 
-#there are some validation in the code
+##there are some validation in the code
 -option validation
 -input valiation
 -invalid id format validation
