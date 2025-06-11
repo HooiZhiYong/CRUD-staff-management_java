@@ -1,11 +1,13 @@
 # staff-management
 **this is my first uploaded project on github,**
 **you are allowed to use my code as reference,**
-**i think there are a few bug inside and im poor in programming,** 
+**i think there is no bug inside but im poor in programming,** 
 **if you guys are free can u guys give me some advise or example to improve my code,**
 **thanks and regret.**
 
 ## this is a programe about the staff management system
+**-have crud**
+
 **-you need to craete the account at first**
 
 **-it has two of the row like admin and employee**
