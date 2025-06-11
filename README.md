@@ -28,6 +28,6 @@
 **-gender validation (1 as male and 2 as female)**
 
 **actually this is the one of the part of my university assignment and it is under my contribution,
-and we get a B+ in the final project,
+and we get a B+ in the final programme,
 the full programme i would not upload it as the rule of privacy.**
 **Im still not good enough so i would need some improvement thanks**
