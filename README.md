@@ -6,6 +6,8 @@
 **thanks and regret.**
 
 ## this is a programe about the staff management system
+**-you need to craete the account at first**
+
 **-it has two of the row like admin and employee**
 
 **-admin are allowed to delete employee account**
