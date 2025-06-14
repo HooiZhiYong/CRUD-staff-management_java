@@ -10,7 +10,7 @@
 
 **-you need to craete the account at first**
 
-**-it has two of the row like admin and employee**
+**-it has two of the role like admin and employee**
 
 **-admin are allowed to delete employee account**
 
