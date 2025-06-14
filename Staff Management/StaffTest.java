@@ -1,3 +1,7 @@
+    /*
+    written by finalzyyy
+    copyright 2025 
+    */
 import java.util.Scanner;
 
 public class StaffTest {
