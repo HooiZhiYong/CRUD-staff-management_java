@@ -40,7 +40,7 @@ It includes full **CRUD operations**, role-based access control, and multiple in
 ---
 ## Developed by
 **Hooi Zhi Yong**  
-🔗 [GitHub Profile](https://github.com/HooiZhiYong)
+[GitHub Profile](https://github.com/HooiZhiYong)
 
 ---
 
